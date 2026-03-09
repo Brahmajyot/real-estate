@@ -2,7 +2,6 @@
 
 import { motion } from "framer-motion";
 import { Mail, Phone, MapPin, Facebook, Twitter, Instagram, Linkedin, ArrowRight } from "lucide-react";
-import Link from "next/link";
 
 const navLinks = [
     { label: "Home", href: "#home" },

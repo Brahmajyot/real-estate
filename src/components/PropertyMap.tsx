@@ -139,7 +139,7 @@ export default function PropertyMap() {
                         </h2>
                         <p className="text-gray-500 text-lg leading-relaxed mb-8">
                             Use our interactive map to explore properties in real time. Filter by
-                            price, neighborhood, and property type to find exactly what you're
+                            price, neighborhood, and property type to find exactly what you&apos;re
                             looking for — anywhere in the world.
                         </p>
 

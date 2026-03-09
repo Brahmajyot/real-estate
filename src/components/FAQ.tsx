@@ -49,7 +49,7 @@ export default function FAQ() {
                             Frequently Asked Questions
                         </h2>
                         <p className="text-gray-500 text-base sm:text-lg leading-relaxed mb-6 sm:mb-8">
-                            Have questions? We've got answers. If you don't see what you're
+                            Have questions? We&apos;ve got answers. If you don&apos;t see what you&apos;re
                             looking for, feel free to contact our team.
                         </p>
                         <motion.button
@@ -116,8 +116,8 @@ export default function FAQ() {
                                     </span>
                                     <div
                                         className={`w-7 h-7 sm:w-8 sm:h-8 rounded-full flex items-center justify-center flex-shrink-0 transition-colors ${openIndex === i
-                                                ? "bg-primary-600 text-white"
-                                                : "bg-gray-100 text-gray-500"
+                                            ? "bg-primary-600 text-white"
+                                            : "bg-gray-100 text-gray-500"
                                             }`}
                                     >
                                         {openIndex === i ? (
